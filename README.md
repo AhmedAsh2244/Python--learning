@@ -11,6 +11,13 @@ This repository contains the code and exercises from my first Python lesson as p
 - Document my learning journey step by step
 - Practice coding and reinforce concepts
 
+## Files
+- lesson1.py – Python script with today's exercises
+- lesson1.png – Screenshot of the code
+
+## Screenshot
+![Lesson 1 Code](Lesson1/lesson1.png)
+
 ## Notes
 - Each new lesson will be added in a separate folder within this repository
-- Today's code has been included as a screenshot and in script format
+- Today's code and screenshot have been included for reference
