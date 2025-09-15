@@ -16,7 +16,7 @@ This repository contains the code and exercises from my first Python lesson as p
 - lesson1.png – Screenshot of the code
 
 ## Screenshot
-![Lesson 1 Code](Lesson1/lesson1.png)
+https://github.com/AhmedAsh2244/Python--learning/blob/main/15.09.2025_08.17.41_REC.png
 
 ## Notes
 - Each new lesson will be added in a separate folder within this repository
